@@ -1,0 +1,14 @@
+[[main]]
+  name = "Libros"
+  pageRef = "libros"
+  weight = 10
+
+[[main]]
+  name = "Autores"
+  pageRef = "autores"
+  weight = 20
+
+[[main]]
+  name = "Contacto"
+  pageRef = "contacto"
+  weight = 30
